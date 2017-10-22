@@ -1,7 +1,7 @@
 
 针对学生背景，定制培训方案，突出实战技能，顺利赢取offer。第一线顶尖互联网公司数据科学家亲自指导，传递独家面试经验，助你拿到梦寐以求的offer。
 
-![](https://github.com/data-science-mentorship-program/data-science-mentorship-program/blob/master/ds_bootcamp_readme_pic1.jpg)
+![](https://github.com/data-science-mentorship-program/data-science-mentorship-program/blob/master/ds_bootcamp_readme_pic1.jpg =100x20)
 
 ## 我们是谁
 我们是一线顶级IT公司的数据科学家和数据分析师，创建这个数据科学mentorship program致力于为所有热爱和想要学习数据科学的在校学生提供最全面的指导和资源来帮助他们找到合适的实习与全职工作。我们团队均毕业于常春藤名校，均有丰富的美国求职面试经验。
