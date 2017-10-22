@@ -1,4 +1,4 @@
-# DataLion 数据科学mentorship program
+# DataLion mentorship program
 针对学生背景，定制培训方案，突出实战技能，顺利赢取offer。第一线顶尖互联网公司数据科学家亲自指导，传递独家面试经验，助你拿到梦寐以求的offer。
 
 <img src="https://github.com/data-science-mentorship-program/data-science-mentorship-program/blob/master/ds_bootcamp_readme_pic1.jpg" alt="Drawing" width="350" height="350"/>
