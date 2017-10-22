@@ -30,7 +30,7 @@ Updating...
 7. 专业知识模块：数据科学实验设计 (eg. A/B test, multivariate test)
 8. 专业知识模块：数据可视化
 9. 专业知识模块：机器学习实战
-10.专业知识模块: 大数据实战 (Hadoop, Spark, Hive, Kafka etc.)
+10.专业知识模块: 大数据实战 (Hadoop, Spark, Hive, Kafka etc)
 11.专业知识模块：NLP实战
 12.专业知识模块：数据分析系统设计
 
