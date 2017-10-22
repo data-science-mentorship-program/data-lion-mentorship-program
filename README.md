@@ -1,4 +1,4 @@
-# DataLion mentorship program
+# DataLion Mentorship Program
 针对学生背景，定制培训方案，突出实战技能，顺利赢取offer。第一线顶尖互联网公司数据科学家亲自指导，传递独家面试经验，助你拿到梦寐以求的offer。
 
 <img src="https://github.com/data-science-mentorship-program/data-science-mentorship-program/blob/master/ds_bootcamp_readme_pic1.jpg" alt="Drawing" width="350" height="350"/>
@@ -60,4 +60,7 @@ A / B测试在网站优化中发挥重要作用。分析A / B测试数据是非�
 * 模拟面试 3-4 次
 
 **每个项目都会针对学生背景，定制培训方案，突出实战技能，顺利赢取offer**
+
+## 联系我们
+如果你对我们的项目感兴趣，请email至datamentor2017@gmail.com 咨询具体项目内容以及收费， 并**附上简历**。我们对没有简历的email将不予回复。
 
