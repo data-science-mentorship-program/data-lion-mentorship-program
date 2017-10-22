@@ -3,6 +3,17 @@
 
 <img src="https://github.com/data-science-mentorship-program/data-science-mentorship-program/blob/master/ds_bootcamp_readme_pic1.jpg" alt="Drawing" width="350" height="350"/>
 
+### 往期学员去向
+#### 项目实验筹备期(05/2016-11/2016, 02/2017-08/2017)
+|学员        | 就职公司           | 职位  |
+| ------------- |:-------------:| -----:|
+| QTZ      | Google | SWE |
+| Jason       | Microsoft      |   Data Scientist |
+| Jenny | Amazon      |   Data Scientist |
+
+#### 第一期学员（09/2017-current）
+Updating...
+
 ## 我们是谁
 我们是一线顶级IT公司的数据科学家和数据分析师，创建这个数据科学mentorship program致力于为所有热爱和想要学习数据科学的在校学生提供最全面的指导和资源来帮助他们找到合适的实习与全职工作。我们团队均毕业于常春藤名校，均有丰富的美国求职面试经验。
 
